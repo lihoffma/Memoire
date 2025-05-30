@@ -1,0 +1,2392 @@
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+    0    1    2    3
+0  72  101  101   31
+1  73  124  124   35
+2  20   31   31  101
+3  76  123  123  124
+4  17  126  126   36
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+      0    1    2    3
+0    72  101  101   31
+1    73  124  124   35
+2    20   31   31  101
+3    76  123  123  124
+4    17  126  126   36
+5    16  127  127   37
+6    19   35   35   32
+7    75  132  132  123
+8    78  128  128  126
+9   109  102  125   70
+10   71  125  102  139
+11   18   43   43   62
+12   38   34   34   15
+13   77   36  130   44
+14   94  130   36   49
+15  114  139  139  125
+16   24   48  138   58
+17  117   38   48   63
+18   74  138   38   53
+19  103   32   32    3
+20  115   62   44   38
+21  116  136   55   45
+22  106   55   62   95
+23  146   44   67  130
+24   44   67  136   72
+25  107   42   42   43
+26  105   94  133    5
+27   55   80   80   79
+28   21  133   56  128
+29    0  117   94   33
+30   84   56  117  116
+31  104   57   46  144
+32  142   17   17   93
+33  150   46   41   57
+34  156    2    2   71
+35   69   41   93   82
+36   87   93  134   81
+37   26   33   57  143
+38   41  129  129   64
+39  126    7  158    2
+40   82   50   88   42
+41   22  134   50  157
+42  113   59   33   94
+43  111   77    7  100
+44   33   95   77  154
+45   85  108   59    1
+46   28   11   53   66
+47   59   47   14    9
+48   90   53   95   51
+49   79   88   47  106
+50  110   92   11  104
+51   37  116   64   47
+52   36   65   86  136
+53  101   14   60   54
+54   52  104   69   90
+55  125   45   65   11
+56   14  158  106   84
+57   67  106  142  121
+58   50   69   92   12
+59   99   60  108  105
+60   32    5   84  145
+61   43   40    5   23
+62   15  142   45  110
+63  138  135  104   97
+64   30   86  113   92
+65  108   72   13   14
+66  137   84   72   24
+67   48   74   40   96
+68   80   66  103  102
+69   35   54  135   85
+70   65   64  116   28
+71   66   15   54  160
+72  123   82   66   26
+73  161   25   15  153
+74  127   71  141    4
+75  130  103   26   50
+76  160  146   58  151
+77   97  131   25   86
+78  132    8   73  133
+79  157   10   74   77
+80  121   13  146   78
+81   13  141    3  147
+82  118  120   10   52
+83   49  113   82  146
+84   29  145   97  120
+85   12   73  131  118
+86   89   58  105  129
+87  143   26   16   80
+88  159    3   71   56
+89   88  150    8  117
+90  158   70   51    0
+91    6   23   23   89
+92   61   51   85  137
+93  122   61  145  112
+94   51   16  120   60
+95  119   12  150   25
+96  131   97   68  107
+97  112    4    4   59
+98  152   19  109  141
+99  147   79   19   20
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+    0     1     2     3
+0  72   101   101    31
+1  73   124   124    35
+2  20    31    31   101
+3  76   123   123   124
+4  17  None  None    36
+5  16  None  None  None
+6  19  None  None  None
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+    0     1     2     3
+0  72   101   101    31
+1  73   124   124    35
+2  20    31    31   101
+3  76   123   123   124
+4  17  None  None    36
+5  16  None  None  None
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0     1     2     3 Mean
+0  None  None  None  None   31
+1  None  None  None  None  101
+2  None  None  None  None   35
+3  None  None  None  None  124
+4  None  None  None  None  123
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+       0     1     2     3 Mean
+0   None  None  None  None   31
+1   None  None  None  None  101
+2   None  None  None  None   35
+3   None  None  None  None  124
+4   None  None  None  None  123
+5   None  None  None  None  126
+6   None  None  None  None   36
+7   None  None  None  None   72
+8   None  None  None  None  127
+9   None  None  None  None  132
+10  None  None  None  None   73
+11  None  None  None  None  125
+12  None  None  None  None  128
+13  None  None  None  None  102
+14  None  None  None  None   43
+15  None  None  None  None   20
+16  None  None  None  None   17
+17  None  None  None  None   38
+18  None  None  None  None   32
+19  None  None  None  None  130
+20  None  None  None  None   34
+21  None  None  None  None   76
+22  None  None  None  None   44
+23  None  None  None  None   16
+24  None  None  None  None   19
+25  None  None  None  None  139
+26  None  None  None  None   94
+27  None  None  None  None   62
+28  None  None  None  None   78
+29  None  None  None  None   75
+30  None  None  None  None  117
+31  None  None  None  None   37
+32  None  None  None  None   71
+33  None  None  None  None   77
+34  None  None  None  None  109
+35  None  None  None  None   48
+36  None  None  None  None   55
+37  None  None  None  None  138
+38  None  None  None  None  116
+39  None  None  None  None  106
+40  None  None  None  None   67
+41  None  None  None  None   15
+42  None  None  None  None   74
+43  None  None  None  None   42
+44  None  None  None  None   80
+45  None  None  None  None   33
+46  None  None  None  None  136
+47  None  None  None  None   70
+48  None  None  None  None  103
+49  None  None  None  None  146
+50  None  None  None  None   24
+51  None  None  None  None  114
+52  None  None  None  None  104
+53  None  None  None  None    2
+54  None  None  None  None   84
+55  None  None  None  None   41
+56  None  None  None  None  133
+57  None  None  None  None   49
+58  None  None  None  None   95
+59  None  None  None  None   50
+60  None  None  None  None   59
+61  None  None  None  None   93
+62  None  None  None  None   46
+63  None  None  None  None   82
+64  None  None  None  None  105
+65  None  None  None  None   53
+66  None  None  None  None   14
+67  None  None  None  None   69
+68  None  None  None  None   18
+69  None  None  None  None   45
+70  None  None  None  None  142
+71  None  None  None  None   56
+72  None  None  None  None  107
+73  None  None  None  None   57
+74  None  None  None  None  129
+75  None  None  None  None   58
+76  None  None  None  None   79
+77  None  None  None  None    3
+78  None  None  None  None   26
+79  None  None  None  None    5
+80  None  None  None  None  108
+81  None  None  None  None   66
+82  None  None  None  None   64
+83  None  None  None  None  150
+84  None  None  None  None   92
+85  None  None  None  None   88
+86  None  None  None  None  134
+87  None  None  None  None   85
+88  None  None  None  None  158
+89  None  None  None  None   60
+90  None  None  None  None  115
+91  None  None  None  None  113
+92  None  None  None  None   47
+93  None  None  None  None   65
+94  None  None  None  None    7
+95  None  None  None  None   28
+96  None  None  None  None   97
+97  None  None  None  None   54
+98  None  None  None  None   11
+99  None  None  None  None   63
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0     1     2     3 Mean
+0  None  None  None  None   31
+1  None  None  None  None  101
+2  None  None  None  None   35
+3  None  None  None  None  124
+4  None  None  None  None  123
+5  None  None  None  None  126
+6  None  None  None  None   36
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+       0     1     2     3 Mean
+0   None  None  None  None   31
+1   None  None  None  None  101
+2   None  None  None  None   35
+3   None  None  None  None  124
+4   None  None  None  None  123
+5   None  None  None  None  126
+6   None  None  None  None   36
+7   None  None  None  None   72
+8   None  None  None  None  127
+9   None  None  None  None  132
+10  None  None  None  None   73
+11  None  None  None  None  125
+12  None  None  None  None  128
+13  None  None  None  None  102
+14  None  None  None  None   43
+15  None  None  None  None   20
+16  None  None  None  None   17
+17  None  None  None  None   38
+18  None  None  None  None   32
+19  None  None  None  None  130
+20  None  None  None  None   34
+21  None  None  None  None   76
+22  None  None  None  None   44
+23  None  None  None  None   16
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+    0    1    2    3
+0  18  101  101   31
+1  17  124  124   35
+2  16  123  123  124
+3  19   31   31   55
+4  20  126  126   53
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+      0    1    2    3
+0    18  101  101   31
+1    17  124  124   35
+2    16  123  123  124
+3    19   31   31   55
+4    20  126  126   53
+5    71  128  128   44
+6    72  102  102   32
+7    73  132  132  126
+8    74   35   35   62
+9    75  125  125  132
+10   76  127  127  101
+11  104   43   43   64
+12  103   34   34  123
+13   77  130  130   63
+14  105   36   36  121
+15  106   55   55   52
+16   78  134  134   25
+17  107   53  129   34
+18  109  129   53    1
+19  108  136  136   15
+20  111   56   56   12
+21  112   38   38   38
+22  113   37   37   45
+23  110  131  131   23
+24   79   42   42   20
+25  114   44   44   46
+26   80   57   57  129
+27  115   64   64   72
+28  117   32   32   28
+29  116   62   62   78
+30  121   39   39  142
+31   23   49   49  143
+32   81   66   66  120
+33   25    3    3   71
+34   21   46   46   81
+35  119   54   54  147
+36  160   47   47   83
+37   22   65   65   85
+38  118   63   63   48
+39  144  133  133   73
+40  122   40   40   88
+41  120   45   45  110
+42  146   48   48  109
+43   24   50   50  159
+44   82  135  135   68
+45  155  138  138   47
+46  156  137  137   54
+47  101   80   80  152
+48  102   70   70   43
+49  136   51   51  102
+50  150   15   15  104
+51  140   60   60   76
+52  153   67   67  128
+53  149   33   33  127
+54  154   68   68    3
+55  142   58   58  149
+56   28   59   59   17
+57  124    9    9   98
+58  130   52   52  135
+59  157  139  139   66
+60  127    7    7   92
+61  152   94   94    5
+62  133  103  103   87
+63  135   69   69  103
+64  126   30   30   57
+65  145  140  140  148
+66  128   81   81  153
+67  158  141  141  125
+68  141   41   41    0
+69  159   72   72  140
+70   83   75   75   90
+71  129   73   73   80
+72  138  144  144  144
+73  161   84   84  134
+74  147  143  143   84
+75  139   90   90   89
+76  134  117  117   27
+77  137   17   17   94
+78  125   83   83   97
+79   30  158  158  155
+80   29  100  100   21
+81  131  157  157  154
+82  148  104  104  112
+83   91   24   24  138
+84  132   96   96  108
+85  123   27   27  139
+86  151  108  108   58
+87   26  121  121  156
+88   84  107  107  136
+89   27   25   25   56
+90  143  142  142  141
+91   47    6    6  105
+92   33  151  151   99
+93   51  113  113   11
+94   58  154  154  117
+95   62   61   61  151
+96   65   86   86   59
+97   67   77   77  118
+98   48   20   20   29
+99   61   14   14  122
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+       0     1     2     3
+0     18   101   101    31
+1     17   124   124  None
+2     16   123   123  None
+3     19    31    31  None
+4     20  None  None  None
+5     71  None  None  None
+6     72  None  None  None
+7     73  None  None  None
+8     74  None  None  None
+9     75  None  None  None
+10    76  None  None  None
+11   104  None  None  None
+12   103  None  None  None
+13    77  None  None  None
+14   105  None  None  None
+15   106  None  None  None
+16    78  None  None  None
+17   107  None  None  None
+18   109  None  None  None
+19   108  None  None  None
+20   111  None  None  None
+21   112  None  None  None
+22   113  None  None  None
+23   110  None  None  None
+24    79  None  None  None
+25   114  None  None  None
+26    80  None  None  None
+27   115  None  None  None
+28   117  None  None  None
+29   116  None  None  None
+30   121  None  None  None
+31    23  None  None  None
+32    81  None  None  None
+33    25  None  None  None
+34    21  None  None  None
+35   119  None  None  None
+36   160  None  None  None
+37    22  None  None  None
+38   118  None  None  None
+39   144  None  None  None
+40   122  None  None  None
+41   120  None  None  None
+42   146  None  None  None
+43    24  None  None  None
+44    82  None  None  None
+45   155  None  None  None
+46   156  None  None  None
+47   101  None  None  None
+48   102  None  None  None
+49   136  None  None  None
+50   150  None  None  None
+51   140  None  None  None
+52   153  None  None  None
+53   149  None  None  None
+54   154  None  None  None
+55   142  None  None  None
+56    28  None  None  None
+57   124  None  None  None
+58   130  None  None  None
+59   157  None  None  None
+60   127  None  None  None
+61   152  None  None  None
+62   133  None  None  None
+63   135  None  None  None
+64   126  None  None  None
+65   145  None  None  None
+66   128  None  None  None
+67   158  None  None  None
+68   141  None  None  None
+69   159  None  None  None
+70    83  None  None  None
+71   129  None  None  None
+72   138  None  None  None
+73   161  None  None  None
+74   147  None  None  None
+75   139  None  None  None
+76   134  None  None  None
+77   137  None  None  None
+78   125  None  None  None
+79    30  None  None  None
+80    29  None  None  None
+81   131  None  None  None
+82   148  None  None  None
+83    91  None  None  None
+84   132  None  None  None
+85   123  None  None  None
+86   151  None  None  None
+87    26  None  None  None
+88    84  None  None  None
+89    27  None  None  None
+90   143  None  None  None
+91    47  None  None  None
+92    33  None  None  None
+93    51  None  None  None
+94    58  None  None  None
+95    62  None  None  None
+96    65  None  None  None
+97    67  None  None  None
+98    48  None  None  None
+99    61  None  None  None
+100   69  None  None  None
+101   85  None  None  None
+102   68  None  None  None
+103   86  None  None  None
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+       0     1     2     3
+0     18   101   101    31
+1     17   124   124  None
+2     16  None  None  None
+3     19  None  None  None
+4     20  None  None  None
+5     71  None  None  None
+6     72  None  None  None
+7     73  None  None  None
+8     74  None  None  None
+9     75  None  None  None
+10    76  None  None  None
+11   104  None  None  None
+12   103  None  None  None
+13    77  None  None  None
+14   105  None  None  None
+15   106  None  None  None
+16    78  None  None  None
+17   107  None  None  None
+18   109  None  None  None
+19   108  None  None  None
+20   111  None  None  None
+21   112  None  None  None
+22   113  None  None  None
+23   110  None  None  None
+24    79  None  None  None
+25   114  None  None  None
+26    80  None  None  None
+27   115  None  None  None
+28   117  None  None  None
+29   116  None  None  None
+30   121  None  None  None
+31    23  None  None  None
+32    81  None  None  None
+33    25  None  None  None
+34    21  None  None  None
+35   119  None  None  None
+36   160  None  None  None
+37    22  None  None  None
+38   118  None  None  None
+39   144  None  None  None
+40   122  None  None  None
+41   120  None  None  None
+42   146  None  None  None
+43    24  None  None  None
+44    82  None  None  None
+45   155  None  None  None
+46   156  None  None  None
+47   101  None  None  None
+48   102  None  None  None
+49   136  None  None  None
+50   150  None  None  None
+51   140  None  None  None
+52   153  None  None  None
+53   149  None  None  None
+54   154  None  None  None
+55   142  None  None  None
+56    28  None  None  None
+57   124  None  None  None
+58   130  None  None  None
+59   157  None  None  None
+60   127  None  None  None
+61   152  None  None  None
+62   133  None  None  None
+63   135  None  None  None
+64   126  None  None  None
+65   145  None  None  None
+66   128  None  None  None
+67   158  None  None  None
+68   141  None  None  None
+69   159  None  None  None
+70    83  None  None  None
+71   129  None  None  None
+72   138  None  None  None
+73   161  None  None  None
+74   147  None  None  None
+75   139  None  None  None
+76   134  None  None  None
+77   137  None  None  None
+78   125  None  None  None
+79    30  None  None  None
+80    29  None  None  None
+81   131  None  None  None
+82   148  None  None  None
+83    91  None  None  None
+84   132  None  None  None
+85   123  None  None  None
+86   151  None  None  None
+87    26  None  None  None
+88    84  None  None  None
+89    27  None  None  None
+90   143  None  None  None
+91    47  None  None  None
+92    33  None  None  None
+93    51  None  None  None
+94    58  None  None  None
+95    62  None  None  None
+96    65  None  None  None
+97    67  None  None  None
+98    48  None  None  None
+99    61  None  None  None
+100   69  None  None  None
+101   85  None  None  None
+102   68  None  None  None
+103   86  None  None  None
+104   55  None  None  None
+105   63  None  None  None
+106   64  None  None  None
+107   60  None  None  None
+108   45  None  None  None
+109   70  None  None  None
+110   49  None  None  None
+111   93  None  None  None
+112   32  None  None  None
+113   36  None  None  None
+114   92  None  None  None
+115   59  None  None  None
+116   44  None  None  None
+117   39  None  None  None
+118   46  None  None  None
+119   54  None  None  None
+120   34  None  None  None
+121   56  None  None  None
+122   94  None  None  None
+123   52  None  None  None
+124   66  None  None  None
+125   57  None  None  None
+126   40  None  None  None
+127   87  None  None  None
+128   43  None  None  None
+129   50  None  None  None
+130   53  None  None  None
+131   96  None  None  None
+132   88  None  None  None
+133   37  None  None  None
+134   38  None  None  None
+135   95  None  None  None
+136   31  None  None  None
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0     1     2     3 Mean
+0  None  None  None  None   18
+1  None  None  None  None   17
+2  None  None  None  None   16
+3  None  None  None  None   19
+4  None  None  None  None   20
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+       0     1     2     3 Mean
+0   None  None  None  None   18
+1   None  None  None  None   17
+2   None  None  None  None   16
+3   None  None  None  None   19
+4   None  None  None  None   20
+5   None  None  None  None   71
+6   None  None  None  None   72
+7   None  None  None  None   73
+8   None  None  None  None   74
+9   None  None  None  None   75
+10  None  None  None  None   76
+11  None  None  None  None  104
+12  None  None  None  None  103
+13  None  None  None  None   77
+14  None  None  None  None  105
+15  None  None  None  None  106
+16  None  None  None  None   78
+17  None  None  None  None  107
+18  None  None  None  None  109
+19  None  None  None  None  108
+20  None  None  None  None  111
+21  None  None  None  None  112
+22  None  None  None  None  113
+23  None  None  None  None  110
+24  None  None  None  None   79
+25  None  None  None  None  114
+26  None  None  None  None   80
+27  None  None  None  None  115
+28  None  None  None  None  117
+29  None  None  None  None  116
+30  None  None  None  None  121
+31  None  None  None  None   23
+32  None  None  None  None   81
+33  None  None  None  None   25
+34  None  None  None  None   21
+35  None  None  None  None  119
+36  None  None  None  None  160
+37  None  None  None  None   22
+38  None  None  None  None  118
+39  None  None  None  None  144
+40  None  None  None  None  122
+41  None  None  None  None  120
+42  None  None  None  None  146
+43  None  None  None  None   24
+44  None  None  None  None   82
+45  None  None  None  None  155
+46  None  None  None  None  156
+47  None  None  None  None  101
+48  None  None  None  None  102
+49  None  None  None  None  136
+50  None  None  None  None  150
+51  None  None  None  None  140
+52  None  None  None  None  153
+53  None  None  None  None  149
+54  None  None  None  None  154
+55  None  None  None  None  142
+56  None  None  None  None   28
+57  None  None  None  None  124
+58  None  None  None  None  130
+59  None  None  None  None  157
+60  None  None  None  None  127
+61  None  None  None  None  152
+62  None  None  None  None  133
+63  None  None  None  None  135
+64  None  None  None  None  126
+65  None  None  None  None  145
+66  None  None  None  None  128
+67  None  None  None  None  158
+68  None  None  None  None  141
+69  None  None  None  None  159
+70  None  None  None  None   83
+71  None  None  None  None  129
+72  None  None  None  None  138
+73  None  None  None  None  161
+74  None  None  None  None  147
+75  None  None  None  None  139
+76  None  None  None  None  134
+77  None  None  None  None  125
+78  None  None  None  None  137
+79  None  None  None  None   30
+80  None  None  None  None   29
+81  None  None  None  None  131
+82  None  None  None  None  148
+83  None  None  None  None   91
+84  None  None  None  None  132
+85  None  None  None  None  123
+86  None  None  None  None  151
+87  None  None  None  None   26
+88  None  None  None  None   84
+89  None  None  None  None   27
+90  None  None  None  None  143
+91  None  None  None  None   47
+92  None  None  None  None   33
+93  None  None  None  None   51
+94  None  None  None  None   58
+95  None  None  None  None   62
+96  None  None  None  None   65
+97  None  None  None  None   67
+98  None  None  None  None   48
+99  None  None  None  None   61
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None   18
+1    None  None  None  None   17
+2    None  None  None  None   16
+3    None  None  None  None   19
+4    None  None  None  None   20
+5    None  None  None  None   71
+6    None  None  None  None   72
+7    None  None  None  None   73
+8    None  None  None  None   74
+9    None  None  None  None   75
+10   None  None  None  None   76
+11   None  None  None  None  104
+12   None  None  None  None  103
+13   None  None  None  None   77
+14   None  None  None  None  105
+15   None  None  None  None  106
+16   None  None  None  None   78
+17   None  None  None  None  107
+18   None  None  None  None  109
+19   None  None  None  None  108
+20   None  None  None  None  111
+21   None  None  None  None  112
+22   None  None  None  None  113
+23   None  None  None  None  110
+24   None  None  None  None   79
+25   None  None  None  None  114
+26   None  None  None  None   80
+27   None  None  None  None  115
+28   None  None  None  None  117
+29   None  None  None  None  116
+30   None  None  None  None  121
+31   None  None  None  None   23
+32   None  None  None  None   81
+33   None  None  None  None   25
+34   None  None  None  None   21
+35   None  None  None  None  119
+36   None  None  None  None  160
+37   None  None  None  None   22
+38   None  None  None  None  118
+39   None  None  None  None  144
+40   None  None  None  None  122
+41   None  None  None  None  120
+42   None  None  None  None  146
+43   None  None  None  None   24
+44   None  None  None  None   82
+45   None  None  None  None  155
+46   None  None  None  None  156
+47   None  None  None  None  101
+48   None  None  None  None  102
+49   None  None  None  None  136
+50   None  None  None  None  150
+51   None  None  None  None  140
+52   None  None  None  None  153
+53   None  None  None  None  149
+54   None  None  None  None  154
+55   None  None  None  None  142
+56   None  None  None  None   28
+57   None  None  None  None  124
+58   None  None  None  None  130
+59   None  None  None  None  157
+60   None  None  None  None  127
+61   None  None  None  None  152
+62   None  None  None  None  133
+63   None  None  None  None  135
+64   None  None  None  None  126
+65   None  None  None  None  145
+66   None  None  None  None  128
+67   None  None  None  None  158
+68   None  None  None  None  141
+69   None  None  None  None  159
+70   None  None  None  None   83
+71   None  None  None  None  129
+72   None  None  None  None  138
+73   None  None  None  None  161
+74   None  None  None  None  147
+75   None  None  None  None  139
+76   None  None  None  None  134
+77   None  None  None  None  125
+78   None  None  None  None  137
+79   None  None  None  None   30
+80   None  None  None  None   29
+81   None  None  None  None  131
+82   None  None  None  None  148
+83   None  None  None  None   91
+84   None  None  None  None  132
+85   None  None  None  None  123
+86   None  None  None  None  151
+87   None  None  None  None   26
+88   None  None  None  None   84
+89   None  None  None  None   27
+90   None  None  None  None  143
+91   None  None  None  None   47
+92   None  None  None  None   33
+93   None  None  None  None   51
+94   None  None  None  None   58
+95   None  None  None  None   62
+96   None  None  None  None   65
+97   None  None  None  None   67
+98   None  None  None  None   48
+99   None  None  None  None   61
+100  None  None  None  None   69
+101  None  None  None  None   85
+102  None  None  None  None   68
+103  None  None  None  None   55
+104  None  None  None  None   86
+105  None  None  None  None   63
+106  None  None  None  None   64
+107  None  None  None  None   60
+108  None  None  None  None   45
+109  None  None  None  None   70
+110  None  None  None  None   49
+111  None  None  None  None   32
+112  None  None  None  None   93
+113  None  None  None  None   36
+114  None  None  None  None   92
+115  None  None  None  None   59
+116  None  None  None  None   44
+117  None  None  None  None   39
+118  None  None  None  None   46
+119  None  None  None  None   54
+120  None  None  None  None   34
+121  None  None  None  None   56
+122  None  None  None  None   94
+123  None  None  None  None   52
+124  None  None  None  None   66
+125  None  None  None  None   57
+126  None  None  None  None   40
+127  None  None  None  None   87
+128  None  None  None  None   43
+129  None  None  None  None   50
+130  None  None  None  None   53
+131  None  None  None  None   96
+132  None  None  None  None   88
+133  None  None  None  None   37
+134  None  None  None  None   38
+135  None  None  None  None   95
+136  None  None  None  None   31
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None   18
+1    None  None  None  None   17
+2    None  None  None  None   16
+3    None  None  None  None   19
+4    None  None  None  None   20
+5    None  None  None  None   71
+6    None  None  None  None   72
+7    None  None  None  None   73
+8    None  None  None  None   74
+9    None  None  None  None   75
+10   None  None  None  None   76
+11   None  None  None  None  104
+12   None  None  None  None  103
+13   None  None  None  None   77
+14   None  None  None  None  105
+15   None  None  None  None  106
+16   None  None  None  None   78
+17   None  None  None  None  107
+18   None  None  None  None  109
+19   None  None  None  None  108
+20   None  None  None  None  111
+21   None  None  None  None  112
+22   None  None  None  None  113
+23   None  None  None  None  110
+24   None  None  None  None   79
+25   None  None  None  None  114
+26   None  None  None  None   80
+27   None  None  None  None  115
+28   None  None  None  None  117
+29   None  None  None  None  116
+30   None  None  None  None  121
+31   None  None  None  None   23
+32   None  None  None  None   81
+33   None  None  None  None   25
+34   None  None  None  None   21
+35   None  None  None  None  119
+36   None  None  None  None  160
+37   None  None  None  None   22
+38   None  None  None  None  118
+39   None  None  None  None  144
+40   None  None  None  None  122
+41   None  None  None  None  120
+42   None  None  None  None  146
+43   None  None  None  None   24
+44   None  None  None  None   82
+45   None  None  None  None  155
+46   None  None  None  None  156
+47   None  None  None  None  101
+48   None  None  None  None  102
+49   None  None  None  None  136
+50   None  None  None  None  150
+51   None  None  None  None  140
+52   None  None  None  None  153
+53   None  None  None  None  149
+54   None  None  None  None  154
+55   None  None  None  None  142
+56   None  None  None  None   28
+57   None  None  None  None  124
+58   None  None  None  None  130
+59   None  None  None  None  157
+60   None  None  None  None  127
+61   None  None  None  None  152
+62   None  None  None  None  133
+63   None  None  None  None  135
+64   None  None  None  None  126
+65   None  None  None  None  145
+66   None  None  None  None  128
+67   None  None  None  None  158
+68   None  None  None  None  141
+69   None  None  None  None  159
+70   None  None  None  None   83
+71   None  None  None  None  129
+72   None  None  None  None  138
+73   None  None  None  None  161
+74   None  None  None  None  147
+75   None  None  None  None  139
+76   None  None  None  None  134
+77   None  None  None  None  125
+78   None  None  None  None  137
+79   None  None  None  None   30
+80   None  None  None  None   29
+81   None  None  None  None  131
+82   None  None  None  None  148
+83   None  None  None  None   91
+84   None  None  None  None  132
+85   None  None  None  None  123
+86   None  None  None  None  151
+87   None  None  None  None   26
+88   None  None  None  None   84
+89   None  None  None  None   27
+90   None  None  None  None  143
+91   None  None  None  None   47
+92   None  None  None  None   33
+93   None  None  None  None   51
+94   None  None  None  None   58
+95   None  None  None  None   62
+96   None  None  None  None   65
+97   None  None  None  None   67
+98   None  None  None  None   48
+99   None  None  None  None   61
+100  None  None  None  None   69
+101  None  None  None  None   85
+102  None  None  None  None   68
+103  None  None  None  None   55
+104  None  None  None  None   86
+105  None  None  None  None   63
+106  None  None  None  None   64
+107  None  None  None  None   60
+108  None  None  None  None   45
+109  None  None  None  None   70
+110  None  None  None  None   49
+111  None  None  None  None   32
+112  None  None  None  None   93
+113  None  None  None  None   36
+114  None  None  None  None   92
+115  None  None  None  None   59
+116  None  None  None  None   44
+117  None  None  None  None   39
+118  None  None  None  None   46
+119  None  None  None  None   54
+120  None  None  None  None   34
+121  None  None  None  None   56
+122  None  None  None  None   94
+123  None  None  None  None   52
+124  None  None  None  None   66
+125  None  None  None  None   57
+126  None  None  None  None   40
+127  None  None  None  None   87
+128  None  None  None  None   43
+129  None  None  None  None   50
+130  None  None  None  None   53
+131  None  None  None  None   96
+132  None  None  None  None   88
+133  None  None  None  None   37
+134  None  None  None  None   38
+135  None  None  None  None   95
+136  None  None  None  None   31
+137  None  None  None  None   42
+138  None  None  None  None   41
+139  None  None  None  None   35
+140  None  None  None  None   90
+141  None  None  None  None    2
+142  None  None  None  None   13
+143  None  None  None  None   89
+144  None  None  None  None   97
+145  None  None  None  None    1
+146  None  None  None  None    0
+147  None  None  None  None   15
+148  None  None  None  None   99
+149  None  None  None  None    9
+150  None  None  None  None    6
+151  None  None  None  None   14
+152  None  None  None  None    8
+153  None  None  None  None    5
+154  None  None  None  None   98
+155  None  None  None  None  100
+156  None  None  None  None    4
+157  None  None  None  None   10
+158  None  None  None  None   11
+159  None  None  None  None    3
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+     0    1    2    3
+0    3    3    3    3
+1   82   82   82   82
+2   42   42   42   42
+3   58   58   58   58
+4  128  128  128  128
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+      0    1    2    3
+0     3    3    3    3
+1    82   82   82   82
+2    42   42   42   42
+3    58   58   58   58
+4   128  128  128  128
+5   129  129  129  129
+6    60   60   60   60
+7   105  105  105  105
+8     1    1    1    1
+9    81   81   81   81
+10  146  146  146  146
+11   11   11   11   11
+12   91   91   91   91
+13   31   31   31   31
+14  155  155  155  155
+15   51   51   51   51
+16  106  106  106  106
+17   47   47   47   47
+18  125  125  125  125
+19   71   71   71   71
+20  161  161  161  161
+21   39   39   39   39
+22  100  100  100  100
+23  159  159  159  159
+24   40   40   40   40
+25   89   89   89   89
+26   68   68   68   68
+27   13   13   13   13
+28   85   85   85   85
+29  151  151  151  151
+30   97   97   97   97
+31  112  112  112  112
+32   98   98   98   98
+33   21   21   21   21
+34   65   65   65   65
+35  111  111  111  111
+36   79   79   79   79
+37   26   26   26   26
+38  131  131  131  131
+39   15   15   15   15
+40   88   88   88   88
+41  143  143  143  143
+42   46   46   46   46
+43   69   69   69   69
+44   76   76   76   76
+45  107  107  107  107
+46   72   72   72   72
+47  140  140  140  140
+48  144  144  144  144
+49  147  147  147  147
+50  157  157  157  157
+51  135  135  135  135
+52   17   17   17   17
+53   96   96   96   96
+54  130  130  130  130
+55  124  124  124  124
+56    5    5    5    5
+57  160  160  160  160
+58  122  122  122  122
+59   44   44   44   44
+60  132  132  132  132
+61  115  115  115  115
+62    4    4    4    4
+63    8    8    8    8
+64   41   41   41   41
+65   83   83   83   83
+66  119  119  119  119
+67   64   64   64   64
+68    7    7    7    7
+69   20   20   20   20
+70   67   67   67   67
+71   86   86   86   86
+72   38   38   38   38
+73   19   19   19   19
+74  139  139  139  139
+75   48   48   48   48
+76  104  104  104  104
+77   35   35   35   35
+78   23   23   23   23
+79   12   12   12   12
+80   32   32   32   32
+81   93   93   93   93
+82    2    2    2    2
+83   77   77   77   77
+84  138  138  138  138
+85  158  158  158  158
+86   18   18   18   18
+87   94   94   94   94
+88   34   34   34   34
+89  110  110  110  110
+90  109  109  109  109
+91  142  142  142  142
+92   22   22   22   22
+93   55   55   55   55
+94   24   24   24   24
+95   66   66   66   66
+96   54   54   54   54
+97    6    6    6    6
+98  114  114  114  114
+99  101  101  101  101
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+      0    1    2    3
+0     3    3    3    3
+1    82   82   82   82
+2    42   42   42   42
+3    58   58   58   58
+4   128  128  128  128
+5   129  129  129  129
+6    60   60   60   60
+7   105  105  105  105
+8     1    1    1    1
+9    81   81   81   81
+10  146  146  146  146
+11   11   11   11   11
+12   91   91   91   91
+13   31   31   31   31
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+      0    1    2    3
+0     3    3    3    3
+1    82   82   82   82
+2    42   42   42   42
+3    58   58   58   58
+4   128  128  128  128
+5   129  129  129  129
+6    60   60   60   60
+7   105  105  105  105
+8     1    1    1    1
+9    81   81   81   81
+10  146  146  146  146
+11   11   11   11   11
+12   91   91   91   91
+13   31   31   31   31
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0     1     2     3 Mean
+0  None  None  None  None    3
+1  None  None  None  None   82
+2  None  None  None  None   42
+3  None  None  None  None   58
+4  None  None  None  None  128
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+       0     1     2     3 Mean
+0   None  None  None  None    3
+1   None  None  None  None   82
+2   None  None  None  None   42
+3   None  None  None  None   58
+4   None  None  None  None  128
+5   None  None  None  None  129
+6   None  None  None  None   60
+7   None  None  None  None  105
+8   None  None  None  None    1
+9   None  None  None  None   81
+10  None  None  None  None  146
+11  None  None  None  None   11
+12  None  None  None  None   91
+13  None  None  None  None   31
+14  None  None  None  None  155
+15  None  None  None  None   51
+16  None  None  None  None  106
+17  None  None  None  None   47
+18  None  None  None  None  125
+19  None  None  None  None   71
+20  None  None  None  None  161
+21  None  None  None  None   39
+22  None  None  None  None  100
+23  None  None  None  None  159
+24  None  None  None  None   40
+25  None  None  None  None   89
+26  None  None  None  None   68
+27  None  None  None  None   13
+28  None  None  None  None   85
+29  None  None  None  None  151
+30  None  None  None  None   97
+31  None  None  None  None  112
+32  None  None  None  None   98
+33  None  None  None  None   21
+34  None  None  None  None   65
+35  None  None  None  None  111
+36  None  None  None  None   79
+37  None  None  None  None   26
+38  None  None  None  None  131
+39  None  None  None  None   15
+40  None  None  None  None   88
+41  None  None  None  None  143
+42  None  None  None  None   46
+43  None  None  None  None   69
+44  None  None  None  None   76
+45  None  None  None  None  107
+46  None  None  None  None   72
+47  None  None  None  None  140
+48  None  None  None  None  144
+49  None  None  None  None  147
+50  None  None  None  None  157
+51  None  None  None  None  135
+52  None  None  None  None   17
+53  None  None  None  None   96
+54  None  None  None  None  130
+55  None  None  None  None  124
+56  None  None  None  None    5
+57  None  None  None  None  160
+58  None  None  None  None  122
+59  None  None  None  None   44
+60  None  None  None  None  132
+61  None  None  None  None  115
+62  None  None  None  None    4
+63  None  None  None  None    8
+64  None  None  None  None   41
+65  None  None  None  None   83
+66  None  None  None  None  119
+67  None  None  None  None   64
+68  None  None  None  None    7
+69  None  None  None  None   20
+70  None  None  None  None   67
+71  None  None  None  None   86
+72  None  None  None  None   38
+73  None  None  None  None   19
+74  None  None  None  None  139
+75  None  None  None  None   48
+76  None  None  None  None  104
+77  None  None  None  None   35
+78  None  None  None  None   23
+79  None  None  None  None   12
+80  None  None  None  None   32
+81  None  None  None  None   93
+82  None  None  None  None    2
+83  None  None  None  None   77
+84  None  None  None  None  138
+85  None  None  None  None  158
+86  None  None  None  None   18
+87  None  None  None  None   94
+88  None  None  None  None   34
+89  None  None  None  None  110
+90  None  None  None  None  109
+91  None  None  None  None  142
+92  None  None  None  None   22
+93  None  None  None  None   55
+94  None  None  None  None   24
+95  None  None  None  None   66
+96  None  None  None  None   54
+97  None  None  None  None    6
+98  None  None  None  None  114
+99  None  None  None  None  101
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None    3
+1    None  None  None  None   82
+2    None  None  None  None   42
+3    None  None  None  None   58
+4    None  None  None  None  128
+5    None  None  None  None  129
+6    None  None  None  None   60
+7    None  None  None  None  105
+8    None  None  None  None    1
+9    None  None  None  None   81
+10   None  None  None  None  146
+11   None  None  None  None   11
+12   None  None  None  None   91
+13   None  None  None  None   31
+14   None  None  None  None  155
+15   None  None  None  None   51
+16   None  None  None  None  106
+17   None  None  None  None   47
+18   None  None  None  None  125
+19   None  None  None  None   71
+20   None  None  None  None  161
+21   None  None  None  None   39
+22   None  None  None  None  100
+23   None  None  None  None  159
+24   None  None  None  None   40
+25   None  None  None  None   89
+26   None  None  None  None   68
+27   None  None  None  None   13
+28   None  None  None  None   85
+29   None  None  None  None  151
+30   None  None  None  None   97
+31   None  None  None  None  112
+32   None  None  None  None   98
+33   None  None  None  None   21
+34   None  None  None  None   65
+35   None  None  None  None  111
+36   None  None  None  None   79
+37   None  None  None  None   26
+38   None  None  None  None  131
+39   None  None  None  None   15
+40   None  None  None  None   88
+41   None  None  None  None  143
+42   None  None  None  None   46
+43   None  None  None  None   69
+44   None  None  None  None   76
+45   None  None  None  None  107
+46   None  None  None  None   72
+47   None  None  None  None  140
+48   None  None  None  None  144
+49   None  None  None  None  147
+50   None  None  None  None  157
+51   None  None  None  None  135
+52   None  None  None  None   17
+53   None  None  None  None   96
+54   None  None  None  None  130
+55   None  None  None  None  124
+56   None  None  None  None    5
+57   None  None  None  None  160
+58   None  None  None  None  122
+59   None  None  None  None   44
+60   None  None  None  None  132
+61   None  None  None  None  115
+62   None  None  None  None    4
+63   None  None  None  None    8
+64   None  None  None  None   41
+65   None  None  None  None   83
+66   None  None  None  None  119
+67   None  None  None  None   64
+68   None  None  None  None    7
+69   None  None  None  None   20
+70   None  None  None  None   67
+71   None  None  None  None   86
+72   None  None  None  None   38
+73   None  None  None  None   19
+74   None  None  None  None  139
+75   None  None  None  None   48
+76   None  None  None  None  104
+77   None  None  None  None   35
+78   None  None  None  None   23
+79   None  None  None  None   12
+80   None  None  None  None   32
+81   None  None  None  None   93
+82   None  None  None  None    2
+83   None  None  None  None   77
+84   None  None  None  None  138
+85   None  None  None  None  158
+86   None  None  None  None   18
+87   None  None  None  None   94
+88   None  None  None  None   34
+89   None  None  None  None  110
+90   None  None  None  None  109
+91   None  None  None  None  142
+92   None  None  None  None   22
+93   None  None  None  None   55
+94   None  None  None  None   24
+95   None  None  None  None   66
+96   None  None  None  None   54
+97   None  None  None  None    6
+98   None  None  None  None  114
+99   None  None  None  None  101
+100  None  None  None  None   53
+101  None  None  None  None   49
+102  None  None  None  None  123
+103  None  None  None  None   73
+104  None  None  None  None  134
+105  None  None  None  None  136
+106  None  None  None  None  149
+107  None  None  None  None  103
+108  None  None  None  None  108
+109  None  None  None  None   56
+110  None  None  None  None   90
+111  None  None  None  None  141
+112  None  None  None  None  102
+113  None  None  None  None   57
+114  None  None  None  None   45
+115  None  None  None  None   27
+116  None  None  None  None   80
+117  None  None  None  None  116
+118  None  None  None  None  113
+119  None  None  None  None   14
+120  None  None  None  None   36
+121  None  None  None  None   25
+122  None  None  None  None   43
+123  None  None  None  None    0
+124  None  None  None  None  117
+125  None  None  None  None   33
+126  None  None  None  None  156
+127  None  None  None  None  127
+128  None  None  None  None  137
+129  None  None  None  None  152
+130  None  None  None  None   70
+131  None  None  None  None  126
+132  None  None  None  None   63
+133  None  None  None  None   30
+134  None  None  None  None  121
+135  None  None  None  None  145
+136  None  None  None  None   95
+137  None  None  None  None   62
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None    3
+1    None  None  None  None   82
+2    None  None  None  None   42
+3    None  None  None  None   58
+4    None  None  None  None  128
+5    None  None  None  None  129
+6    None  None  None  None   60
+7    None  None  None  None  105
+8    None  None  None  None    1
+9    None  None  None  None   81
+10   None  None  None  None  146
+11   None  None  None  None   11
+12   None  None  None  None   91
+13   None  None  None  None   31
+14   None  None  None  None  155
+15   None  None  None  None   51
+16   None  None  None  None  106
+17   None  None  None  None   47
+18   None  None  None  None  125
+19   None  None  None  None   71
+20   None  None  None  None  161
+21   None  None  None  None   39
+22   None  None  None  None  100
+23   None  None  None  None  159
+24   None  None  None  None   40
+25   None  None  None  None   89
+26   None  None  None  None   68
+27   None  None  None  None   13
+28   None  None  None  None   85
+29   None  None  None  None  151
+30   None  None  None  None   97
+31   None  None  None  None  112
+32   None  None  None  None   98
+33   None  None  None  None   21
+34   None  None  None  None   65
+35   None  None  None  None  111
+36   None  None  None  None   79
+37   None  None  None  None   26
+38   None  None  None  None  131
+39   None  None  None  None   15
+40   None  None  None  None   88
+41   None  None  None  None  143
+42   None  None  None  None   46
+43   None  None  None  None   69
+44   None  None  None  None   76
+45   None  None  None  None  107
+46   None  None  None  None   72
+47   None  None  None  None  140
+48   None  None  None  None  144
+49   None  None  None  None  147
+50   None  None  None  None  157
+51   None  None  None  None  135
+52   None  None  None  None   17
+53   None  None  None  None   96
+54   None  None  None  None  130
+55   None  None  None  None  124
+56   None  None  None  None    5
+57   None  None  None  None  160
+58   None  None  None  None  122
+59   None  None  None  None   44
+60   None  None  None  None  132
+61   None  None  None  None  115
+62   None  None  None  None    4
+63   None  None  None  None    8
+64   None  None  None  None   41
+65   None  None  None  None   83
+66   None  None  None  None  119
+67   None  None  None  None   64
+68   None  None  None  None    7
+69   None  None  None  None   20
+70   None  None  None  None   67
+71   None  None  None  None   86
+72   None  None  None  None   38
+73   None  None  None  None   19
+74   None  None  None  None  139
+75   None  None  None  None   48
+76   None  None  None  None  104
+77   None  None  None  None   35
+78   None  None  None  None   23
+79   None  None  None  None   12
+80   None  None  None  None   32
+81   None  None  None  None   93
+82   None  None  None  None    2
+83   None  None  None  None   77
+84   None  None  None  None  138
+85   None  None  None  None  158
+86   None  None  None  None   18
+87   None  None  None  None   94
+88   None  None  None  None   34
+89   None  None  None  None  110
+90   None  None  None  None  109
+91   None  None  None  None  142
+92   None  None  None  None   22
+93   None  None  None  None   55
+94   None  None  None  None   24
+95   None  None  None  None   66
+96   None  None  None  None   54
+97   None  None  None  None    6
+98   None  None  None  None  114
+99   None  None  None  None  101
+100  None  None  None  None   53
+101  None  None  None  None   49
+102  None  None  None  None  123
+103  None  None  None  None   73
+104  None  None  None  None  134
+105  None  None  None  None  136
+106  None  None  None  None  149
+107  None  None  None  None  103
+108  None  None  None  None  108
+109  None  None  None  None   56
+110  None  None  None  None   90
+111  None  None  None  None  141
+112  None  None  None  None  102
+113  None  None  None  None   57
+114  None  None  None  None   45
+115  None  None  None  None   27
+116  None  None  None  None   80
+117  None  None  None  None  116
+118  None  None  None  None  113
+119  None  None  None  None   14
+120  None  None  None  None   36
+121  None  None  None  None   25
+122  None  None  None  None   43
+123  None  None  None  None    0
+124  None  None  None  None  117
+125  None  None  None  None   33
+126  None  None  None  None  156
+127  None  None  None  None  127
+128  None  None  None  None  137
+129  None  None  None  None  152
+130  None  None  None  None   70
+131  None  None  None  None  126
+132  None  None  None  None   63
+133  None  None  None  None   30
+134  None  None  None  None  121
+135  None  None  None  None  145
+136  None  None  None  None   95
+137  None  None  None  None   62
+138  None  None  None  None   16
+139  None  None  None  None   99
+140  None  None  None  None  154
+141  None  None  None  None   74
+142  None  None  None  None  120
+143  None  None  None  None   50
+144  None  None  None  None  133
+145  None  None  None  None   87
+146  None  None  None  None   78
+147  None  None  None  None   37
+148  None  None  None  None   92
+149  None  None  None  None   84
+150  None  None  None  None   59
+151  None  None  None  None   52
+152  None  None  None  None   28
+153  None  None  None  None   61
+154  None  None  None  None  150
+155  None  None  None  None   29
+156  None  None  None  None   10
+157  None  None  None  None  153
+158  None  None  None  None    9
+159  None  None  None  None  118
+160  None  None  None  None   75
+161  None  None  None  None  148
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+     0    1    2    3
+0  103  139  139   31
+1    9  101  101   65
+2   98  149  149   57
+3   47  138  138  126
+4   78  106  106  127
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+      0    1    2    3
+0   103  139  139   31
+1     9  101  101   65
+2    98  149  149   57
+3    47  138  138  126
+4    78  106  106  127
+5    21   48   48  128
+6     3   25   25   75
+7   118  136  136   82
+8   102   14   14   74
+9    68   15   15   45
+10   64  102  102    9
+11   75   17   17  120
+12   95   60   60  144
+13   71   16   16   60
+14   79  158  119   10
+15  108  119  158   35
+16   33    2    2   49
+17   19   79   44   39
+18  109   29   79    8
+19  125   44   29  146
+20  131  133  133  108
+21  113   56  161  130
+22  128  161  104  147
+23   67   37   37  161
+24   87  104   56   37
+25  115  152  152   30
+26  121  108  108   13
+27   84   40   40   19
+28    0   22   22  104
+29   17   31   31    3
+30   13   61   61   53
+31  106  131   35   20
+32   94   35  131   79
+33  112   45   45  160
+34  101   86  127   95
+35  120  127   86   25
+36  152  125  125   81
+37   59   64  135   88
+38   43    5   64  124
+39  107   77    5   32
+40   62  135   77   55
+41  135    0    0  107
+42   22    1    1    5
+43   16   49   49   94
+44    4   21    4  114
+45   20    4  145   62
+46  138  145  122  158
+47  122  122   21   72
+48  114   85   85   78
+49  160  150    9  125
+50   65    9  150  106
+51  151   94   94  129
+52  105  141  141  121
+53   96   51   55   90
+54   77    8   51   50
+55   58   12   67   89
+56  158   55    8   58
+57   52   67   12  149
+58  136   58   38  152
+59  139   38   58  136
+60   50  124   50  100
+61  132   68  132    2
+62   29   50   68   70
+63   72   63  118   43
+64   99   98  124   76
+65   91  132   63   29
+66  142  128  128   98
+67    6  130   43  154
+68   14   43   98    4
+69   35  118  155  132
+70   56   39  130  113
+71   30  155   81  145
+72   28   47  115  122
+73   63  115   39  159
+74   53   81  120  112
+75   85  120   47   73
+76  119  110  110   18
+77  110  100  100  138
+78   88   75   75  111
+79   15   87   87  150
+80    7   97   97   33
+81   49  160  160   26
+82   66  117  117    0
+83  144   91   91    1
+84   44    3    3   27
+85  150   28   28   28
+86  156   26   26   21
+87  154   27   27   22
+88   24   23   23   23
+89   23   24   24   24
+90    8   18   18    6
+91   12   20   20    7
+92    2   19   19   11
+93    5    7    7   12
+94   10    6    6   14
+95   11   13   13   15
+96    1   10   10   16
+97   25   11   11   17
+98   32   33   33   97
+99   31   32   32   96
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+      0     1     2     3
+0   103   139   139    31
+1     9   101   101  None
+2    98   149   149  None
+3    47   138   138  None
+4    78   106   106  None
+5    21    48    48  None
+6     3    25    25  None
+7   118   136   136  None
+8   102    14    14  None
+9    68    15    15  None
+10   64   102   102  None
+11   75    17    17  None
+12   95    60    60  None
+13   71    16    16  None
+14   79   158   119  None
+15  108   119   158  None
+16   33     2     2  None
+17   19    79    44  None
+18  109    29    79  None
+19  125    44    29  None
+20  131   133   133  None
+21  113    56   161  None
+22  128   161   104  None
+23   67    37    37  None
+24   87   104    56  None
+25  115   152   152  None
+26  121   108   108  None
+27   84    40    40  None
+28    0    22    22  None
+29   17    31    31  None
+30   13  None  None  None
+31  106  None  None  None
+32   94  None  None  None
+33  112  None  None  None
+34  101  None  None  None
+35  120  None  None  None
+36  152  None  None  None
+37   59  None  None  None
+38   43  None  None  None
+39  107  None  None  None
+40   62  None  None  None
+41  135  None  None  None
+42   22  None  None  None
+43   16  None  None  None
+44    4  None  None  None
+45   20  None  None  None
+46  138  None  None  None
+47  122  None  None  None
+48  114  None  None  None
+49  160  None  None  None
+50   65  None  None  None
+51  151  None  None  None
+52  105  None  None  None
+53   96  None  None  None
+54   77  None  None  None
+55   58  None  None  None
+56  158  None  None  None
+57   52  None  None  None
+58  136  None  None  None
+59  139  None  None  None
+60   50  None  None  None
+61  132  None  None  None
+62   29  None  None  None
+63   72  None  None  None
+64   99  None  None  None
+65   91  None  None  None
+66  142  None  None  None
+67    6  None  None  None
+68   14  None  None  None
+69   35  None  None  None
+70   56  None  None  None
+71   30  None  None  None
+72   28  None  None  None
+73   63  None  None  None
+74   53  None  None  None
+75   85  None  None  None
+76  119  None  None  None
+77  110  None  None  None
+78   88  None  None  None
+79   15  None  None  None
+80    7  None  None  None
+81   49  None  None  None
+82   66  None  None  None
+83  144  None  None  None
+84   44  None  None  None
+85  150  None  None  None
+86  156  None  None  None
+87  154  None  None  None
+88   24  None  None  None
+89   23  None  None  None
+90    8  None  None  None
+91   12  None  None  None
+92    2  None  None  None
+93    5  None  None  None
+94   10  None  None  None
+95   11  None  None  None
+96    1  None  None  None
+97   25  None  None  None
+98   32  None  None  None
+99   31  None  None  None
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+      0     1     2     3
+0   103   139   139    31
+1     9   101   101  None
+2    98   149   149  None
+3    47   138   138  None
+4    78   106   106  None
+5    21    48    48  None
+6     3    25    25  None
+7   118   136   136  None
+8   102    14    14  None
+9    68    15    15  None
+10   64   102   102  None
+11   75    17    17  None
+12   95    60    60  None
+13   71    16    16  None
+14   79   158   119  None
+15  108   119   158  None
+16   33     2     2  None
+17   19    79    44  None
+18  109    29    79  None
+19  125    44    29  None
+20  131   133   133  None
+21  113    56   161  None
+22  128   161   104  None
+23   67    37    37  None
+24   87   104    56  None
+25  115   152   152  None
+26  121   108   108  None
+27   84    40    40  None
+28    0    22    22  None
+29   17    31    31  None
+30   13  None  None  None
+31  106  None  None  None
+32   94  None  None  None
+33  112  None  None  None
+34  101  None  None  None
+35  120  None  None  None
+36  152  None  None  None
+37   59  None  None  None
+38   43  None  None  None
+39  107  None  None  None
+40   62  None  None  None
+41  135  None  None  None
+42   22  None  None  None
+43   16  None  None  None
+44    4  None  None  None
+45   20  None  None  None
+46  138  None  None  None
+47  122  None  None  None
+48  114  None  None  None
+49  160  None  None  None
+50   65  None  None  None
+51  151  None  None  None
+52  105  None  None  None
+53   96  None  None  None
+54   77  None  None  None
+55   58  None  None  None
+56  158  None  None  None
+57   52  None  None  None
+58  136  None  None  None
+59  139  None  None  None
+60   50  None  None  None
+61  132  None  None  None
+62   29  None  None  None
+63   72  None  None  None
+64   99  None  None  None
+65   91  None  None  None
+66  142  None  None  None
+67    6  None  None  None
+68   14  None  None  None
+69   35  None  None  None
+70   56  None  None  None
+71   30  None  None  None
+72   28  None  None  None
+73   63  None  None  None
+74   53  None  None  None
+75   85  None  None  None
+76  119  None  None  None
+77  110  None  None  None
+78   88  None  None  None
+79   15  None  None  None
+80    7  None  None  None
+81   49  None  None  None
+82   66  None  None  None
+83  144  None  None  None
+84   44  None  None  None
+85  150  None  None  None
+86  156  None  None  None
+87  154  None  None  None
+88   24  None  None  None
+89   23  None  None  None
+90    8  None  None  None
+91   12  None  None  None
+92    2  None  None  None
+93    5  None  None  None
+94   10  None  None  None
+95   11  None  None  None
+96    1  None  None  None
+97   25  None  None  None
+98   32  None  None  None
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0     1     2     3 Mean
+0  None  None  None  None   31
+1  None  None  None  None  101
+2  None  None  None  None  139
+3  None  None  None  None  106
+4  None  None  None  None  102
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+       0     1     2     3 Mean
+0   None  None  None  None   31
+1   None  None  None  None  101
+2   None  None  None  None  139
+3   None  None  None  None  106
+4   None  None  None  None  102
+5   None  None  None  None    9
+6   None  None  None  None   79
+7   None  None  None  None  108
+8   None  None  None  None  138
+9   None  None  None  None   25
+10  None  None  None  None   60
+11  None  None  None  None  149
+12  None  None  None  None  136
+13  None  None  None  None   17
+14  None  None  None  None  158
+15  None  None  None  None  127
+16  None  None  None  None   16
+17  None  None  None  None   48
+18  None  None  None  None   14
+19  None  None  None  None  152
+20  None  None  None  None  128
+21  None  None  None  None  161
+22  None  None  None  None   15
+23  None  None  None  None   37
+24  None  None  None  None   35
+25  None  None  None  None   45
+26  None  None  None  None  125
+27  None  None  None  None   75
+28  None  None  None  None  104
+29  None  None  None  None   65
+30  None  None  None  None   29
+31  None  None  None  None  131
+32  None  None  None  None  119
+33  None  None  None  None    2
+34  None  None  None  None   98
+35  None  None  None  None   64
+36  None  None  None  None   22
+37  None  None  None  None   21
+38  None  None  None  None   56
+39  None  None  None  None  120
+40  None  None  None  None   44
+41  None  None  None  None  133
+42  None  None  None  None   49
+43  None  None  None  None    3
+44  None  None  None  None   94
+45  None  None  None  None    0
+46  None  None  None  None   47
+47  None  None  None  None  103
+48  None  None  None  None   78
+49  None  None  None  None    5
+50  None  None  None  None  135
+51  None  None  None  None   19
+52  None  None  None  None   57
+53  None  None  None  None   95
+54  None  None  None  None   40
+55  None  None  None  None  126
+56  None  None  None  None    4
+57  None  None  None  None  118
+58  None  None  None  None    8
+59  None  None  None  None   77
+60  None  None  None  None   61
+61  None  None  None  None   13
+62  None  None  None  None   68
+63  None  None  None  None   82
+64  None  None  None  None   67
+65  None  None  None  None  122
+66  None  None  None  None   74
+67  None  None  None  None   86
+68  None  None  None  None  121
+69  None  None  None  None   39
+70  None  None  None  None  130
+71  None  None  None  None   43
+72  None  None  None  None   58
+73  None  None  None  None   20
+74  None  None  None  None  160
+75  None  None  None  None  107
+76  None  None  None  None  144
+77  None  None  None  None   55
+78  None  None  None  None   62
+79  None  None  None  None  115
+80  None  None  None  None   10
+81  None  None  None  None  124
+82  None  None  None  None   50
+83  None  None  None  None  113
+84  None  None  None  None  114
+85  None  None  None  None   71
+86  None  None  None  None  145
+87  None  None  None  None    1
+88  None  None  None  None   30
+89  None  None  None  None   87
+90  None  None  None  None   81
+91  None  None  None  None   33
+92  None  None  None  None  146
+93  None  None  None  None  109
+94  None  None  None  None  147
+95  None  None  None  None   85
+96  None  None  None  None   53
+97  None  None  None  None  132
+98  None  None  None  None   84
+99  None  None  None  None  112
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None   31
+1    None  None  None  None  101
+2    None  None  None  None  139
+3    None  None  None  None  106
+4    None  None  None  None  102
+5    None  None  None  None    9
+6    None  None  None  None   79
+7    None  None  None  None  108
+8    None  None  None  None  138
+9    None  None  None  None   25
+10   None  None  None  None   60
+11   None  None  None  None  149
+12   None  None  None  None  136
+13   None  None  None  None   17
+14   None  None  None  None  158
+15   None  None  None  None  127
+16   None  None  None  None   16
+17   None  None  None  None   48
+18   None  None  None  None   14
+19   None  None  None  None  152
+20   None  None  None  None  128
+21   None  None  None  None  161
+22   None  None  None  None   15
+23   None  None  None  None   37
+24   None  None  None  None   35
+25   None  None  None  None   45
+26   None  None  None  None  125
+27   None  None  None  None   75
+28   None  None  None  None  104
+29   None  None  None  None   65
+30   None  None  None  None   29
+31   None  None  None  None  131
+32   None  None  None  None  119
+33   None  None  None  None    2
+34   None  None  None  None   98
+35   None  None  None  None   64
+36   None  None  None  None   22
+37   None  None  None  None   21
+38   None  None  None  None   56
+39   None  None  None  None  120
+40   None  None  None  None   44
+41   None  None  None  None  133
+42   None  None  None  None   49
+43   None  None  None  None    3
+44   None  None  None  None   94
+45   None  None  None  None    0
+46   None  None  None  None   47
+47   None  None  None  None  103
+48   None  None  None  None   78
+49   None  None  None  None    5
+50   None  None  None  None  135
+51   None  None  None  None   19
+52   None  None  None  None   57
+53   None  None  None  None   95
+54   None  None  None  None   40
+55   None  None  None  None  126
+56   None  None  None  None    4
+57   None  None  None  None  118
+58   None  None  None  None    8
+59   None  None  None  None   77
+60   None  None  None  None   61
+61   None  None  None  None   13
+62   None  None  None  None   68
+63   None  None  None  None   82
+64   None  None  None  None   67
+65   None  None  None  None  122
+66   None  None  None  None   74
+67   None  None  None  None   86
+68   None  None  None  None  121
+69   None  None  None  None   39
+70   None  None  None  None  130
+71   None  None  None  None   43
+72   None  None  None  None   58
+73   None  None  None  None   20
+74   None  None  None  None  160
+75   None  None  None  None  107
+76   None  None  None  None  144
+77   None  None  None  None   55
+78   None  None  None  None   62
+79   None  None  None  None  115
+80   None  None  None  None   10
+81   None  None  None  None  124
+82   None  None  None  None   50
+83   None  None  None  None  113
+84   None  None  None  None  114
+85   None  None  None  None   71
+86   None  None  None  None  145
+87   None  None  None  None    1
+88   None  None  None  None   30
+89   None  None  None  None   87
+90   None  None  None  None   81
+91   None  None  None  None   33
+92   None  None  None  None  146
+93   None  None  None  None  109
+94   None  None  None  None  147
+95   None  None  None  None   85
+96   None  None  None  None   53
+97   None  None  None  None  132
+98   None  None  None  None   84
+99   None  None  None  None  112
+100  None  None  None  None   88
+101  None  None  None  None  150
+102  None  None  None  None   72
+103  None  None  None  None   59
+104  None  None  None  None  141
+105  None  None  None  None   51
+106  None  None  None  None   32
+107  None  None  None  None   12
+108  None  None  None  None   63
+109  None  None  None  None  129
+110  None  None  None  None   90
+111  None  None  None  None   38
+112  None  None  None  None  100
+113  None  None  None  None  151
+114  None  None  None  None  105
+115  None  None  None  None   89
+116  None  None  None  None   96
+117  None  None  None  None  155
+118  None  None  None  None   52
+119  None  None  None  None  110
+120  None  None  None  None   70
+121  None  None  None  None   76
+122  None  None  None  None   91
+123  None  None  None  None   99
+124  None  None  None  None  142
+125  None  None  None  None  154
+126  None  None  None  None    6
+127  None  None  None  None   28
+128  None  None  None  None  159
+129  None  None  None  None   97
+130  None  None  None  None    7
+131  None  None  None  None  117
+132  None  None  None  None   73
+133  None  None  None  None   18
+134  None  None  None  None   66
+135  None  None  None  None  111
+136  None  None  None  None  156
+137  None  None  None  None   11
+138  None  None  None  None   27
+139  None  None  None  None   26
+140  None  None  None  None   23
+141  None  None  None  None   24
+142  None  None  None  None   34
+143  None  None  None  None   41
+144  None  None  None  None   46
+145  None  None  None  None   54
+146  None  None  None  None   92
+147  None  None  None  None   93
+148  None  None  None  None   83
+149  None  None  None  None   80
+150  None  None  None  None   69
+151  None  None  None  None   42
+152  None  None  None  None   36
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+        0     1     2     3 Mean
+0    None  None  None  None   31
+1    None  None  None  None  101
+2    None  None  None  None  139
+3    None  None  None  None  106
+4    None  None  None  None  102
+5    None  None  None  None    9
+6    None  None  None  None   79
+7    None  None  None  None  108
+8    None  None  None  None  138
+9    None  None  None  None   25
+10   None  None  None  None   60
+11   None  None  None  None  149
+12   None  None  None  None  136
+13   None  None  None  None   17
+14   None  None  None  None  158
+15   None  None  None  None  127
+16   None  None  None  None   16
+17   None  None  None  None   48
+18   None  None  None  None   14
+19   None  None  None  None  152
+20   None  None  None  None  128
+21   None  None  None  None  161
+22   None  None  None  None   15
+23   None  None  None  None   37
+24   None  None  None  None   35
+25   None  None  None  None   45
+26   None  None  None  None  125
+27   None  None  None  None   75
+28   None  None  None  None  104
+29   None  None  None  None   65
+30   None  None  None  None   29
+31   None  None  None  None  131
+32   None  None  None  None  119
+33   None  None  None  None    2
+34   None  None  None  None   98
+35   None  None  None  None   64
+36   None  None  None  None   22
+37   None  None  None  None   21
+38   None  None  None  None   56
+39   None  None  None  None  120
+40   None  None  None  None   44
+41   None  None  None  None  133
+42   None  None  None  None   49
+43   None  None  None  None    3
+44   None  None  None  None   94
+45   None  None  None  None    0
+46   None  None  None  None   47
+47   None  None  None  None  103
+48   None  None  None  None   78
+49   None  None  None  None    5
+50   None  None  None  None  135
+51   None  None  None  None   19
+52   None  None  None  None   57
+53   None  None  None  None   95
+54   None  None  None  None   40
+55   None  None  None  None  126
+56   None  None  None  None    4
+57   None  None  None  None  118
+58   None  None  None  None    8
+59   None  None  None  None   77
+60   None  None  None  None   61
+61   None  None  None  None   13
+62   None  None  None  None   68
+63   None  None  None  None   82
+64   None  None  None  None   67
+65   None  None  None  None  122
+66   None  None  None  None   74
+67   None  None  None  None   86
+68   None  None  None  None  121
+69   None  None  None  None   39
+70   None  None  None  None  130
+71   None  None  None  None   43
+72   None  None  None  None   58
+73   None  None  None  None   20
+74   None  None  None  None  160
+75   None  None  None  None  107
+76   None  None  None  None  144
+77   None  None  None  None   55
+78   None  None  None  None   62
+79   None  None  None  None  115
+80   None  None  None  None   10
+81   None  None  None  None  124
+82   None  None  None  None   50
+83   None  None  None  None  113
+84   None  None  None  None  114
+85   None  None  None  None   71
+86   None  None  None  None  145
+87   None  None  None  None    1
+88   None  None  None  None   30
+89   None  None  None  None   87
+90   None  None  None  None   81
+91   None  None  None  None   33
+92   None  None  None  None  146
+93   None  None  None  None  109
+94   None  None  None  None  147
+95   None  None  None  None   85
+96   None  None  None  None   53
+97   None  None  None  None  132
+98   None  None  None  None   84
+99   None  None  None  None  112
+100  None  None  None  None   88
+101  None  None  None  None  150
+102  None  None  None  None   72
+103  None  None  None  None   59
+104  None  None  None  None  141
+105  None  None  None  None   51
+106  None  None  None  None   32
+107  None  None  None  None   12
+108  None  None  None  None   63
+109  None  None  None  None  129
+110  None  None  None  None   90
+111  None  None  None  None   38
+112  None  None  None  None  100
+113  None  None  None  None  151
+114  None  None  None  None  105
+115  None  None  None  None   89
+116  None  None  None  None   96
+117  None  None  None  None  155
+118  None  None  None  None   52
+119  None  None  None  None  110
+120  None  None  None  None   70
+121  None  None  None  None   76
+122  None  None  None  None   91
+123  None  None  None  None   99
+124  None  None  None  None  142
+125  None  None  None  None  154
+126  None  None  None  None    6
+127  None  None  None  None   28
+128  None  None  None  None  159
+129  None  None  None  None   97
+130  None  None  None  None    7
+131  None  None  None  None  117
+132  None  None  None  None   73
+133  None  None  None  None   18
+134  None  None  None  None   66
+135  None  None  None  None  111
+136  None  None  None  None  156
+137  None  None  None  None   11
+138  None  None  None  None   27
+139  None  None  None  None   26
+140  None  None  None  None   23
+141  None  None  None  None   24
+142  None  None  None  None   34
+143  None  None  None  None   41
+144  None  None  None  None   46
+145  None  None  None  None   54
+146  None  None  None  None   92
+147  None  None  None  None   93
+148  None  None  None  None   83
+149  None  None  None  None   80
+150  None  None  None  None   69
+151  None  None  None  None   42
+152  None  None  None  None   36
+153  None  None  None  None  116
+154  None  None  None  None  123
+155  None  None  None  None  140
+156  None  None  None  None  134
+157  None  None  None  None  137
+158  None  None  None  None  143
+159  None  None  None  None  148
+160  None  None  None  None  153
+161  None  None  None  None  157
+================================================================================

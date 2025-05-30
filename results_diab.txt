@@ -1,0 +1,382 @@
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  3
+3  9
+4  0
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  3
+3  9
+4  0
+5  5
+6  4
+7  6
+8  7
+9  1
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     3
+3  None     9
+4  None     0
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     3
+3  None     9
+4  None     0
+5  None     5
+6  None     4
+7  None     6
+8  None     7
+9  None     1
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
+Evaluation Params: ['RandomForest', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  2
+3  5
+4  3
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  2
+3  5
+4  3
+5  7
+6  1
+7  6
+8  9
+9  0
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  2
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  2
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     2
+3  None     5
+4  None     3
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     2
+3  None     5
+4  None     3
+5  None     7
+6  None     1
+7  None     6
+8  None     9
+9  None     0
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     2
+================================================================================
+Evaluation Params: ['LinearRegression', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     2
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  0
+3  9
+4  5
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  0
+3  9
+4  5
+5  3
+6  7
+7  1
+8  2
+9  6
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  0
+3  9
+4  5
+5  3
+6  7
+7  1
+8  2
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+   0
+0  4
+1  8
+2  0
+3  9
+4  5
+5  3
+6  7
+7  1
+8  2
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     0
+3  None     9
+4  None     5
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     0
+3  None     9
+4  None     5
+5  None     3
+6  None     7
+7  None     1
+8  None     2
+9  None     6
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     0
+3  None     9
+4  None     5
+5  None     3
+6  None     7
+7  None     1
+8  None     2
+================================================================================
+Evaluation Params: ['PCA', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     4
+1  None     8
+2  None     0
+3  None     9
+4  None     5
+5  None     3
+6  None     7
+7  None     1
+8  None     2
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  7
+3  9
+4  3
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  7
+3  9
+4  3
+5  5
+6  6
+7  1
+8  0
+9  4
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     7
+3  None     9
+4  None     3
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     7
+3  None     9
+4  None     3
+5  None     5
+6  None     6
+7  None     1
+8  None     0
+9  None     4
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
+Evaluation Params: ['MI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  7
+3  9
+4  3
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+2  7
+3  9
+4  3
+5  5
+6  6
+7  1
+8  4
+9  0
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'All', ['0']]
+   0
+0  2
+1  8
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['subset_max', 5, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     7
+3  None     9
+4  None     3
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['iter_max', 100, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+2  None     7
+3  None     9
+4  None     3
+5  None     5
+6  None     6
+7  None     1
+8  None     4
+9  None     0
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['R2', 0.9, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
+Evaluation Params: ['DynMI', 'All', ['0']]
+Stopping Params: ['MSE', 0.1, 'any', 'Mean', ['0']]
+      0  Mean
+0  None     2
+1  None     8
+================================================================================
