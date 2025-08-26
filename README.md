@@ -1,5 +1,5 @@
 # Mémoire de Master – Mathématiques  
-**Année académique 2023-2024**  
+**Année académique 2023-2025**  
 **En collaboration avec Cenaero**
 
 ## 📘 Description
